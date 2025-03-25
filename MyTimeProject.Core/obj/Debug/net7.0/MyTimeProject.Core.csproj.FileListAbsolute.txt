@@ -1,0 +1,12 @@
+C:\Users\user1\Documents\לימודים\dot net core\MyTimeProject\MyTimeProject.Core\bin\Debug\net7.0\MyTimeProject.Core.deps.json
+C:\Users\user1\Documents\לימודים\dot net core\MyTimeProject\MyTimeProject.Core\bin\Debug\net7.0\MyTimeProject.Core.dll
+C:\Users\user1\Documents\לימודים\dot net core\MyTimeProject\MyTimeProject.Core\bin\Debug\net7.0\MyTimeProject.Core.pdb
+C:\Users\user1\Documents\לימודים\dot net core\MyTimeProject\MyTimeProject.Core\obj\Debug\net7.0\MyTimeProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\לימודים\dot net core\MyTimeProject\MyTimeProject.Core\obj\Debug\net7.0\MyTimeProject.Core.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\לימודים\dot net core\MyTimeProject\MyTimeProject.Core\obj\Debug\net7.0\MyTimeProject.Core.AssemblyInfo.cs
+C:\Users\user1\Documents\לימודים\dot net core\MyTimeProject\MyTimeProject.Core\obj\Debug\net7.0\MyTimeProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\לימודים\dot net core\MyTimeProject\MyTimeProject.Core\obj\Debug\net7.0\MyTimeProject.Core.dll
+C:\Users\user1\Documents\לימודים\dot net core\MyTimeProject\MyTimeProject.Core\obj\Debug\net7.0\refint\MyTimeProject.Core.dll
+C:\Users\user1\Documents\לימודים\dot net core\MyTimeProject\MyTimeProject.Core\obj\Debug\net7.0\MyTimeProject.Core.pdb
+C:\Users\user1\Documents\לימודים\dot net core\MyTimeProject\MyTimeProject.Core\obj\Debug\net7.0\ref\MyTimeProject.Core.dll
+C:\Users\user1\Documents\לימודים\dot net core\MyTimeProject\MyTimeProject.Core\obj\Debug\net7.0\MyTimeProject.Core.csproj.AssemblyReference.cache

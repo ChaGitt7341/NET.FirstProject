@@ -1,0 +1,17 @@
+C:\Users\user1\Documents\לימודים\dot net core\MyTimeProject\MyTimeProject.Data\obj\Debug\net7.0\MyTimeProject.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\לימודים\dot net core\MyTimeProject\MyTimeProject.Data\obj\Debug\net7.0\MyTimeProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\לימודים\dot net core\MyTimeProject\MyTimeProject.Data\obj\Debug\net7.0\MyTimeProject.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\לימודים\dot net core\MyTimeProject\MyTimeProject.Data\obj\Debug\net7.0\MyTimeProject.Data.AssemblyInfo.cs
+C:\Users\user1\Documents\לימודים\dot net core\MyTimeProject\MyTimeProject.Data\obj\Debug\net7.0\MyTimeProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\לימודים\dot net core\MyTimeProject\MyTimeProject.Data\bin\Debug\net7.0\MyTimeProject.Data.deps.json
+C:\Users\user1\Documents\לימודים\dot net core\MyTimeProject\MyTimeProject.Data\bin\Debug\net7.0\MyTimeProject.Data.runtimeconfig.json
+C:\Users\user1\Documents\לימודים\dot net core\MyTimeProject\MyTimeProject.Data\bin\Debug\net7.0\MyTimeProject.Data.dll
+C:\Users\user1\Documents\לימודים\dot net core\MyTimeProject\MyTimeProject.Data\bin\Debug\net7.0\MyTimeProject.Data.pdb
+C:\Users\user1\Documents\לימודים\dot net core\MyTimeProject\MyTimeProject.Data\bin\Debug\net7.0\MyTimeProject.Core.dll
+C:\Users\user1\Documents\לימודים\dot net core\MyTimeProject\MyTimeProject.Data\bin\Debug\net7.0\MyTimeProject.Core.pdb
+C:\Users\user1\Documents\לימודים\dot net core\MyTimeProject\MyTimeProject.Data\obj\Debug\net7.0\MyTimeProject.Data.csproj.CopyComplete
+C:\Users\user1\Documents\לימודים\dot net core\MyTimeProject\MyTimeProject.Data\obj\Debug\net7.0\MyTimeProject.Data.dll
+C:\Users\user1\Documents\לימודים\dot net core\MyTimeProject\MyTimeProject.Data\obj\Debug\net7.0\refint\MyTimeProject.Data.dll
+C:\Users\user1\Documents\לימודים\dot net core\MyTimeProject\MyTimeProject.Data\obj\Debug\net7.0\MyTimeProject.Data.pdb
+C:\Users\user1\Documents\לימודים\dot net core\MyTimeProject\MyTimeProject.Data\obj\Debug\net7.0\MyTimeProject.Data.genruntimeconfig.cache
+C:\Users\user1\Documents\לימודים\dot net core\MyTimeProject\MyTimeProject.Data\obj\Debug\net7.0\ref\MyTimeProject.Data.dll
